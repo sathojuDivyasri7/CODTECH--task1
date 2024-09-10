@@ -4,6 +4,8 @@ COMPANY : CODTECH IT SOLUTIONS
 ID : CT12DS1971
 DOMAIN : UI/UX DESIGN
 # OVERVIEW OF PROJECT
+# obj: 
+redesigned portfolio website to showcase my work and user friendly.engaging user experince.
 NAME OF THE PROJECT : PORTFOLIO WEBSITE REDESIGN
 ![TASK1 PIC1](https://github.com/user-attachments/assets/ad31f378-4648-4e87-9361-21db1dc021d9)
 ![tas1 pic2](https://github.com/user-attachments/assets/6ee6485c-facb-454d-a6c7-d5602bac4971)
